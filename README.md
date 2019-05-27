@@ -3,10 +3,10 @@
 The #React100 challenge is a commitment to learn React for the next 100 days. We are using the challenge as an accountability tool where techies would come together, go through tutorials weekly, and learn in a judgement-free zone. If you're anything like me, you've done the #100daysofcode journey. You've spent countless hours learning lessons and pushing code. The process of learning is fun; however, it can be very lonely and overwhelming as time goes on. This is why the #React100 Slack community was formed. We are able to tap into a community of React developers of all levels, expertise, and experiences. This community has supported and encouraged me to keep growing into the developer I want to become and I couldn't appreciate it more!
 
 ## 📋 What’s the plan? 
-* Code for a **minimum** of an hour a day
-* Share progress on social media each day with the hashtag #React100
-* Mon-Fri: Tutorials and Learning
-* Sat-Sun: Build a small React Project
+- Code for a **minimum** of an hour a day
+- Share progress on social media each day with the hashtag #React100
+- Mon-Fri: Tutorials and Learning
+- Sat-Sun: Build a small React Project
 
 ## 🎯 Goal
 - Successfully complete 100 Days Of React
@@ -33,14 +33,14 @@ Treehouse’s 7 hour React course
 https://teamtreehouse.com/tracks/learn-react
 Note: Treehouse offers a 7-day free trial
 
-[ ] React Basics
-[ ] React Components
-[ ] Using Create React App
-[ ] React Context API
-[ ] React Router 4 Basics
-[ ] What is new in React 16
-[ ] Data Fetching in React
-[ ] Deploy a React App
+- [ ] React Basics
+- [ ] React Components
+- [ ] Using Create React App
+- [ ] React Context API
+- [ ] React Router 4 Basics
+- [ ] What is new in React 16
+- [ ] Data Fetching in React
+- [ ] Deploy a React App
 
 Week 1 Weekend Project: [Mini Netflix](https://scotch.io/tutorials/build-a-mini-netflix-with-react-in-10-minutes)
 
