@@ -1,0 +1,109 @@
+body {
+  height: 100%;
+  background: -webkit-linear-gradient(40deg, #4CB8C4 10%, #EAECC6 100%);
+  background:    -moz-linear-gradient(40deg, #4CB8C4 10%, #EAECC6 100%);
+  background:     -ms-linear-gradient(40deg, #4CB8C4 10%, #EAECC6 100%);
+  background:      -o-linear-gradient(40deg, #4CB8C4 10%, #EAECC6 100%);
+  background:         linear-gradient(40deg, #4CB8C4 10%, #EAECC6 100%);
+  font-family: 'Lato', sans-serif;
+}
+
+.app {
+  padding: 30px;
+  height: 100vh;
+}
+
+.html {
+  height: 100%;
+}
+
+.body {
+  height: 100%;
+  font-family: 'Lato', sans-serif;
+}
+
+.row {
+  width: 100%;
+}
+
+.todo-list {
+	max-width: 750px;
+	background: rgba(250, 250, 250, .3);
+	margin: 3em auto 0 auto;
+	border-radius: 7px;
+	-webkit-box-shadow: 0 0 4px 3px rgba(0,0,0,.3);
+	box-shadow: 0 0 4px 4px rgba(0,0,0,.03);
+  padding: 5px;
+  
+}
+
+.todo-list-title {
+  text-align: center;
+	font-weight: 700;
+	font-size: 2.5rem;
+	text-transform: uppercase;
+	color: white;
+  margin: 0;
+  transition: all .4s ease-in-out;
+}
+
+.todo-list-sub-title {
+  margin: 0 0 3em 0;
+	text-align: center;
+	font-size: 0.9em;
+	color: #1F7972;
+	font-weight: 100;
+}
+
+.todo {
+  border-top: 1px solid rgba(250,250,250, .3);
+  border-bottom: 1px solid rgba(250,250,250, .3);
+  height: 50px;
+  line-height: 50px;
+}
+
+.input {
+  width: 100%;
+  padding: 0;
+  border: 0;
+  height: 30px;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+}
+
+.complete {
+  float: left;
+  border-right: 1px solid rgba(250,250,250, .3);
+  padding: 1em;
+}
+
+.trash {
+  float: right;
+  text-align: center;
+  border-left: 1px solid rgba(250,250,250, .3);
+  padding: 1em;
+}
+
+i {
+  color: white;
+  transition: all .4s ease-in-out;
+}
+  
+i:hover {
+    color:  #1F7972;
+}
+
+.form {
+      margin-top: 2em;
+      padding: 0 5%;
+      display: inline-block;
+}
+
+input[type="text"] {
+			width: 100%;
+			display: inline-block;
+			background: rgba(250,250,250,.4);
+			border: none;
+			height: 40px;
+			border-radius: 4px;
+}
