@@ -216,4 +216,4 @@ React for Beginners: https://reactforbeginners.com/
 - [ ] Deploying to an Apache Server
 - [ ] Ejecting from create-react-app
 
-Week 7 weekend project: [Build a Custom Calendar in React:] (https://blog.flowandform.agency/create-a-custom-calendar-in-react-3df1bfd0b728)
+Week 7 weekend project: [Build a Custom Calendar in React:](https://blog.flowandform.agency/create-a-custom-calendar-in-react-3df1bfd0b728)
