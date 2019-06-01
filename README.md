@@ -184,3 +184,36 @@ Week 6 weekend project: [Build a Yelp Clone](https://www.fullstackreact.com/arti
 ## Week 7
 
 React for Beginners: https://reactforbeginners.com/
+
+- [ ] Thinking and Understanding React Components
+- [ ] Introduction, Tooling and Editor Setup
+- [ ] Thinking and Understanding React Components
+- [ ] Creating our First Components
+- [ ] Writing HTML with JSX
+- [ ] Loading CSS into our React Application
+- [ ] Creating our application layout with components
+- [ ] Passing Dynamic data with props
+- [ ] Stateless Functional Components
+- [ ] Routing with React Router
+- [ ] Helper and Utility Functions
+- [ ] Events, Refs and this Binding
+- [ ] Handling Events
+- [ ] Understanding State
+- [ ] Loading data into state onClick
+- [ ] Displaying State with JSX
+- [ ] Updating our Order State
+- [ ] Displaying Order State with JSX
+- [ ] Persisting our State with Firebase
+- [ ] Persisting Order State with localstorage
+- [ ] Bi-directional Data Flow and Live State Editing
+- [ ] Removing Items from State
+- [ ] Animating React Components
+- [ ] Component Validation with PropTypes
+- [ ] Authentication
+- [ ] Building React for Production
+- [ ] Deploying to Now
+- [ ] Deploying to Netlify
+- [ ] Deploying to an Apache Server
+- [ ] Ejecting from create-react-app
+
+Week 7 weekend project: [Build a Custom Calendar in React:] (https://blog.flowandform.agency/create-a-custom-calendar-in-react-3df1bfd0b728)
