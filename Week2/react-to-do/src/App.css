@@ -21,9 +21,9 @@ body {
   height: 100%;
   font-family: 'Lato', sans-serif;
 }
-
 .row {
   width: 100%;
+  display: flex;
 }
 
 .todo-list {
@@ -32,9 +32,7 @@ body {
 	margin: 3em auto 0 auto;
 	border-radius: 7px;
 	-webkit-box-shadow: 0 0 4px 3px rgba(0,0,0,.3);
-	box-shadow: 0 0 4px 4px rgba(0,0,0,.03);
-  padding: 5px;
-  
+  box-shadow: 0 0 4px 4px rgba(0,0,0,.03);
 }
 
 .todo-list-title {
@@ -44,6 +42,7 @@ body {
 	text-transform: uppercase;
 	color: white;
   margin: 0;
+  padding-top: 1em;
   transition: all .4s ease-in-out;
 }
 
@@ -58,8 +57,12 @@ body {
 .todo {
   border-top: 1px solid rgba(250,250,250, .3);
   border-bottom: 1px solid rgba(250,250,250, .3);
-  height: 50px;
-  line-height: 50px;
+  float: left;
+  color: #1F7972;
+  width: 80%;
+  padding-top: 1em;
+  padding-left: 20px;
+  padding-bottom: 1em;
 }
 
 .input {
@@ -74,14 +77,23 @@ body {
 .complete {
   float: left;
   border-right: 1px solid rgba(250,250,250, .3);
-  padding: 1em;
+  border-top: 1px solid rgba(250,250,250, .3);
+  border-bottom: 1px solid rgba(250,250,250, .3);
+  width: 10%;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  text-align: center;
 }
 
 .trash {
   float: right;
-  text-align: center;
   border-left: 1px solid rgba(250,250,250, .3);
-  padding: 1em;
+  border-top: 1px solid rgba(250,250,250, .3);
+  border-bottom: 1px solid rgba(250,250,250, .3);
+  width: 10%;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  text-align: center;
 }
 
 i {
@@ -101,9 +113,19 @@ i:hover {
 
 input[type="text"] {
 			width: 100%;
-			display: inline-block;
 			background: rgba(250,250,250,.4);
 			border: none;
-			height: 40px;
-			border-radius: 4px;
+      height: 50px;
+      border-radius: 4px;
+      font-size: 20px;
+      color: #1F7972;
+}
+
+@media only screen and (max-width: 375px) {
+  .complete {
+    padding: 1em;
+  }
+  .trash {
+    padding: 1em;
+  }
 }
