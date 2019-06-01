@@ -83,12 +83,12 @@ https://learn.freecodecamp.org/front-end-libraries/react/
 - [x] Render State in the User Interface
 - [x] Render State in the User Interface Another Way
 - [x] Set State with this.setState
-- [ ] Bind 'this' to a Class Method
-- [ ] Use State to Toggle an Element
-- [ ] Write a Simple Counter
-- [ ] Create a Controlled Input
-- [ ] Create a Controlled Form
-- [ ] Pass State as Props to Child Components
+- [x] Bind 'this' to a Class Method
+- [x] Use State to Toggle an Element
+- [x] Write a Simple Counter
+- [x] Create a Controlled Input
+- [x] Create a Controlled Form
+- [x] Pass State as Props to Child Components
 
 Week 3 Weekend Project: [Q&A (Questions & Answers) app that relies on a backend API](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
 
